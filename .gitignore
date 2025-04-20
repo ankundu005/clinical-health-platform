@@ -23,8 +23,6 @@ var/
 .coverage
 htmlcov/
 .env
-*.db
-*.sqlite3
 
 # Frontend
 node_modules/
